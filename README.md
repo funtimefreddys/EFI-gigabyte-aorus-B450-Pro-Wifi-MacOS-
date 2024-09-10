@@ -3,6 +3,7 @@ MY PC
 MacOS Ver -Sonoma 14.6.1 
 
 Bios F66D - Or a new version
+
 secure boot off F10 Save
 
 𝗠𝗬 𝗣𝗖
