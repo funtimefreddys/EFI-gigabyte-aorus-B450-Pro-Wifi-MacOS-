@@ -1,6 +1,9 @@
 MY PC
 
-MacOS Ver -Sonoma 14.6.1 
+MacOS Ver 
+* Sonoma (14.x) wifi ❌ 𝗘𝘁𝗵𝗲𝗿𝗻𝗲𝘁 ✅
+* Ventura (13.x) wifi ✅ 𝗘𝘁𝗵𝗲𝗿𝗻𝗲𝘁 ✅
+* Monterey (12.x) wifi ✅ 𝗘𝘁𝗵𝗲𝗿𝗻𝗲𝘁 ❌
 
 Bios F66D - Or a new version
 
