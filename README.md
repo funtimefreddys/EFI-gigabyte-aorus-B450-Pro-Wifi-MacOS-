@@ -26,6 +26,6 @@ Bios F66D - Or a new version
 * explorer++ Run administrator https://explorerplusplus.com/
 * macos-installer https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
 
-![2567-09-10_12 12 27](https://github.com/user-attachments/assets/ed20e357-6024-4c64-9a04-02e10c9450f4)
+   ![2567-09-10_12 12 27](https://github.com/user-attachments/assets/ed20e357-6024-4c64-9a04-02e10c9450f4)
 
 ![458186863_1850697625423574_8010579378143789461_n](https://github.com/user-attachments/assets/7d3ba082-2003-4418-9bc3-fe38825ea649)
