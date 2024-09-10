@@ -21,6 +21,10 @@ Bios F66D - Or a new version
 * 𝗯𝗹𝘂𝗲𝘁𝗼𝗼𝘁𝗵 ✅
 * 𝗔𝗶𝗿𝗗𝗿𝗼𝗽 ✅
 * 𝗶𝗰𝗹𝗼𝘂𝗱 𝗔𝗻𝗱 𝗮𝗽𝗽𝗹𝗲 𝗶𝗱 ✅
+* minitool partition wizard Free https://www.partitionwizard.com/
+* etcher https://etcher.balena.io/
+* explorer++ Run administrator https://explorerplusplus.com/
+* macos-installer https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
 
 ![2567-09-10_12 12 27](https://github.com/user-attachments/assets/ed20e357-6024-4c64-9a04-02e10c9450f4)
 
