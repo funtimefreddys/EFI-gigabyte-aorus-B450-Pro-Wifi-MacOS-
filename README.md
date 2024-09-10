@@ -27,6 +27,7 @@ secure boot off F10 Save
 * etcher https://etcher.balena.io/
 * explorer++ Run administrator https://explorerplusplus.com/
 * macos-installer https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
+* Youtube https://youtu.be/DRqVr5tCyfc?si=XlGqAO9LIrfm4XuO
 
    ![2567-09-10_12 12 27](https://github.com/user-attachments/assets/ed20e357-6024-4c64-9a04-02e10c9450f4)
 
